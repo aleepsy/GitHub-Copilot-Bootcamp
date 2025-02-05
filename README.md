@@ -1,16 +1,14 @@
-# GitHub Copilot Bootcamp
+<!-- ADD IMAGES -->
+<p align="center">
+<img src=".\img\GHCopilotLATAM.png" alt="Description" width="550" height="300">  
+</p>
+<!-- ADD IMAGES END -->
 
 El Bootcamp de GitHub Copilot es una serie de clases en vivo de 4 partes diseñada para equiparte con las herramientas y el conocimiento necesarios para potenciar tu productividad en el desarrollo y aprovechar al máximo GitHub Copilot.
 
 En este bootcamp, aprenderás a optimizar tu flujo de trabajo con GitHub Copilot, dominando todo, desde la creación de prompts efectivos hasta la automatización de tareas repetitivas como pruebas y documentación. ¡No pierdas esta oportunidad de llevar tus habilidades de codificación al siguiente nivel!
 
-<!-- ADD IMAGES -->
-<p align="center">
-<img src="![alt text](image-1.png)" alt="Description" width="500" height="500">  
-</p>
-<!-- ADD IMAGES END -->
-
-## Descripción de la sesión
+## 🎯 Descripción de la sesión
 
 Descubre cómo GitHub Copilot puede mejorar tu experiencia de desarrollo. En esta clase, aprenderás los fundamentos de cómo funciona Copilot, explorarás conceptos de IA responsable y entenderás cómo usar la herramienta en diferentes entornos.
 
@@ -19,6 +17,25 @@ Descubre cómo GitHub Copilot puede mejorar tu experiencia de desarrollo. En est
 - Entiende qué es GitHub Copilot y cómo funciona
 - Aprende los principios de la IA responsable
 - Explora GitHub Copilot en todos los entornos
+
+## 📚 Contenidos
+
+1. Introducción a GitHub Copilot
+1. Características y beneficios
+1. Principios de IA Responsable
+1. Uso de GitHub Copilot Chat para la asistencia de IA en Visual Studio Code
+1. En construcción...
+
+## 🛠 Requisitos
+
+- Un ordenador con conexión a internet
+- Un navegador web moderno (recomendamos Microsoft Edge, Google Chrome, Mozilla Firefox o Safari)
+- Visual Studio Code (editor de código recomendado) con la extensión de GitHub Copilot instalada
+- Ganas de aprender y experimentar
+
+## 🎓 Cómo Inscribirse
+
+Para inscribirte en este curso, visita [aka.ms/GitHubCopilotBootcampLATAM](https://aka.ms/GitHubCopilotBootcampLATAM) y sigue las instrucciones de inscripción para no perderte esta y las próximas sesiones.
 
 ## Reto
 
@@ -38,3 +55,6 @@ Descubre cómo GitHub Copilot puede mejorar tu experiencia de desarrollo. En est
 ## Autora
 
 - Alejandra Pérez - [@aleepsy](https://github.com/aleepsy)
+
+---
+Desarrollado con ❤️ para la comunidad
